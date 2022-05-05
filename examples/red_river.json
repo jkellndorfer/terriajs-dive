@@ -50,7 +50,7 @@
           "url": "https://titiler.xyz/cog/tiles/{z}/{x}/{y}?url=https%3A%2F%2Febd-clients-w.s3.amazonaws.com%2FNOAA%2FRCM%2FCOG%2FRCM3_OK2071629_PK2079228_16M2_20220504_000526UTC-EBD_PCT_8bit.tif%3FAWSAccessKeyId%3DAKIAJFTC5FRGKQV5C5KQ&Signature%3DBgKHjA6%2Ft6tw3QIKZxZtwwiCAW8%3D&Expires%3D1660274212"
         },
         {
-          "name": "Red River SAR-imaged flooding, RCM 2022-05-01 00:13:23 UTC",
+          "name": "Red River SAR-imaged flooding, RCM 2022-05-05 00:13:23 UTC",
           "type": "url-template",
           "zoomOnEnable": true,
           "isEnabled": true,
